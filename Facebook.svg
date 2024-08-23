@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="27" viewBox="0 0 26 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="13.09" height="24.44" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Facebook">
+      <rect width="26" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook" clip-path="url(#clip-Facebook)">
+    <g id="Group_7" data-name="Group 7" transform="translate(6 1)">
+      <g id="Group_6" data-name="Group 6" clip-path="url(#clip-path)">
+        <path id="Path_8" data-name="Path 8" d="M12.232,13.747l.678-4.423H8.667V6.454a2.211,2.211,0,0,1,2.493-2.39h1.93V.3A23.517,23.517,0,0,0,9.665,0c-3.5,0-5.78,2.118-5.78,5.953V9.324H0v4.423H3.885V24.439H8.667V13.747Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

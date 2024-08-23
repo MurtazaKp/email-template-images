@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="27" viewBox="0 0 26 27">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="24.44" height="24.44" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Insta">
+      <rect width="26" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Insta" clip-path="url(#clip-Insta)">
+    <g id="Group_5" data-name="Group 5" transform="translate(1 1)">
+      <g id="Group_4" data-name="Group 4" clip-path="url(#clip-path)">
+        <path id="Path_5" data-name="Path 5" d="M18.69,4.364A1.433,1.433,0,1,0,20.123,5.8,1.433,1.433,0,0,0,18.69,4.364" fill="#fff"/>
+        <path id="Path_6" data-name="Path 6" d="M12.32,6.2a6.019,6.019,0,1,0,6.019,6.019A6.026,6.026,0,0,0,12.32,6.2m0,9.874a3.856,3.856,0,1,1,3.855-3.855,3.86,3.86,0,0,1-3.855,3.855" fill="#fff"/>
+        <path id="Path_7" data-name="Path 7" d="M17.1,24.439H7.341A7.349,7.349,0,0,1,0,17.1V7.341A7.349,7.349,0,0,1,7.341,0H17.1A7.35,7.35,0,0,1,24.44,7.341V17.1A7.35,7.35,0,0,1,17.1,24.439M7.341,2.3A5.047,5.047,0,0,0,2.3,7.341V17.1A5.047,5.047,0,0,0,7.341,22.14H17.1A5.047,5.047,0,0,0,22.141,17.1V7.341A5.047,5.047,0,0,0,17.1,2.3Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
